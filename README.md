@@ -15,7 +15,14 @@ This project performs basic arithmetic operations like **Addition, Subtraction, 
 ---
 
 ## 📸 Screenshot
-(Add your screenshot here after running the program. Example below 👇)  
+# Graphical Calculator
+
+A simple Python Tkinter based calculator with a graphical interface.
+
+## Screenshot
+
+![Graphical Calculator Screenshot](screenshot.png)
+
 
 ![Calculator Screenshot](screenshot.png)
 
